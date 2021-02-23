@@ -1,0 +1,2 @@
+/content/gdrive/MyDrive/Classroom/VIR/DELF/data/oxford5k_images/hertford_000056.jpg
+/content/gdrive/MyDrive/Classroom/VIR/DELF/data/oxford5k_images/oxford_000317.jpg
